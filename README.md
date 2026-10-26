@@ -14,7 +14,7 @@ Currently, I'm expanding my expertise into Applied AI Engineering, building prac
 - Experience with FinTech platforms, regulated workflows, and frontend security.
 
 ### 🤖 Applied AI Engineering
-- Building LLM-powered applications using Python and LangChain.
+- Building LLM-powered applications using Python, LangChain and LangGraph.
 - Implementing RAG pipelines with embeddings, vector databases, and semantic search.
 - Exploring AI agents, tool calling, and MCP-based integrations.
 - Working with OpenAI and Google Gemini APIs, as well as local language models.
